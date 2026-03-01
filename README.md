@@ -43,7 +43,7 @@ A privacy-first video survey platform where users answer 5 Yes/No questions whil
 ### Run with Docker
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Indrajit-Mandol/video-survey-platform.git
 cd video-survey-platform
 docker-compose up --build
 ```
